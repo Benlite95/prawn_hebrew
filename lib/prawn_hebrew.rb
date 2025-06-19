@@ -1,5 +1,5 @@
 require 'prawn'
-require_relative 'version'
+#require_relative 'version'
 
 module PrawnHebrew
   module Text
